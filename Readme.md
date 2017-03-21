@@ -1,4 +1,4 @@
-#This is the README file for USBasp (Chinese version: MX-USB-ISP-V4.00 and other v4.00) .
+**This is the README file for USBasp (Chinese version: MX-USB-ISP-V4.00 and other v4.00).**
 
 Compiled versions for mega8, mega48, mega88 there are folder **bin/firmware**.
 
